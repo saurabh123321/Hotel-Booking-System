@@ -1,0 +1,17 @@
+101 single 2
+102 single NULL
+103 single NULL
+104 single 4
+105 single NULL
+105 single NULL
+106 single NULL
+201 double NULL
+202 double NULL
+203 double NULL
+204 double NULL
+205 double NULL
+206 double NULL
+206 double NULL
+206 double NULL
+206 double NULL
+206 double NULL
